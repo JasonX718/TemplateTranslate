@@ -1,0 +1,17 @@
+D:\TemplateTranslate\TemplateTranslateApp\bin\Debug\TemplateTranslateApp.exe.config
+D:\TemplateTranslate\TemplateTranslateApp\bin\Debug\TemplateTranslateApp.exe
+D:\TemplateTranslate\TemplateTranslateApp\bin\Debug\TemplateTranslateApp.pdb
+D:\TemplateTranslate\TemplateTranslateApp\bin\Debug\EPPlus.dll
+D:\TemplateTranslate\TemplateTranslateApp\bin\Debug\EPPlus.Interfaces.dll
+D:\TemplateTranslate\TemplateTranslateApp\bin\Debug\EPPlus.System.Drawing.dll
+D:\TemplateTranslate\TemplateTranslateApp\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\TemplateTranslate\TemplateTranslateApp\bin\Debug\EPPlus.xml
+D:\TemplateTranslate\TemplateTranslateApp\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\TemplateTranslate\TemplateTranslateApp\obj\Debug\TemplateTranslateApp.csproj.AssemblyReference.cache
+D:\TemplateTranslate\TemplateTranslateApp\obj\Debug\TemplateTranslateApp.Form1.resources
+D:\TemplateTranslate\TemplateTranslateApp\obj\Debug\TemplateTranslateApp.Properties.Resources.resources
+D:\TemplateTranslate\TemplateTranslateApp\obj\Debug\TemplateTranslateApp.csproj.GenerateResource.cache
+D:\TemplateTranslate\TemplateTranslateApp\obj\Debug\TemplateTranslateApp.csproj.CoreCompileInputs.cache
+D:\TemplateTranslate\TemplateTranslateApp\obj\Debug\TemplateTranslateApp.csproj.CopyComplete
+D:\TemplateTranslate\TemplateTranslateApp\obj\Debug\TemplateTranslateApp.exe
+D:\TemplateTranslate\TemplateTranslateApp\obj\Debug\TemplateTranslateApp.pdb
